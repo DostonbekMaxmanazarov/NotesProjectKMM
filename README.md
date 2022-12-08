@@ -5,6 +5,7 @@
 
 #### *Proekt to'g'risidagi ma'lumotlarni o'zbek tilida tushuntirib o'tmoqchiman.*
 
+#### 1. 
 ```kotlin
 sqldelight {
     database("NoteDatabase") {
