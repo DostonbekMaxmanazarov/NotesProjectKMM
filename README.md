@@ -14,3 +14,4 @@ sqldelight {
     }
 }
 ```
+Proekt to'g'risidagi ma'lumotlarni o'zbek tilida tushuntirib o'tmoqchiman
